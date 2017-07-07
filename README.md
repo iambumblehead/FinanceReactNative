@@ -75,6 +75,10 @@ iOS's Stocks App clone written in [React Native](https://github.com/facebook/rea
 * Run `android avd` and start an emulator
 * Run `react-native run-android`
 
+#### Web (pendig)
+
+* Ron `npm run web-dev`
+
 ## Related project
 
 * [FinanceMacOSReactNative](https://github.com/7kfpun/FinanceMacOSReactNative) - iOS's Stocks App clone written for MacOS with Touch Bar supported. Data is pulled from [Yahoo Finance](finance.yahoo.com).
